@@ -277,7 +277,7 @@ r"""
 
     print("=" * 65)
     print("[+] CYBERSECURITY PASSWORD VAULT & AUDITING PLATFORM")
-    print("[+] Author  : Ankur Chaurasia")
+    print("[+] Author  : DarkDragon")
     print("[+] Version : 2.0")
     print("[+] Status  : SECURE")
     print("=" * 65)
