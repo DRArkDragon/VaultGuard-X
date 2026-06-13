@@ -38,12 +38,18 @@ Securely store credentials, generate strong passwords, detect weak passwords, pe
 
 ```text
 VaultGuard-X/
-│── main.py
-│── common_passwords.txt
-│── README.md
-│── requirements.txt
-│── LICENSE
-│── .gitignore
+│
+├── vaultguard.py
+├── passwords.txt
+├── requirements.txt
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+└── Screenshots/
+    ├── startup.png
+    ├── menu.png
+    └── dashboard.png
 ```
 
 > Runtime files such as the encrypted vault, master password hash, and encryption key are created automatically inside a hidden `.vault_data` directory.
@@ -68,7 +74,7 @@ pip install -r requirements.txt
 Run the application:
 
 ```bash
-python main.py
+python vaultguard.py
 ```
 
 ---
