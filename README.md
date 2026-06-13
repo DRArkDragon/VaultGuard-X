@@ -1,8 +1,8 @@
- 🔐 VaultGuard-X
+# 🔐 VaultGuard-X
 
 <div align="center">
 
- ☣️ VaultGuard-X
+# ☣️ VaultGuard-X
 
 ### A Cybersecurity-Themed Password Manager Built with Python
 
