@@ -98,19 +98,19 @@ python main.py
 
 ### Startup Screen
 
-![Startup](screenshots/startup.png)
+![Startup](Screenshots/startup.png)
 
 ---
 
 ### Main Console
 
-![Menu](screenshots/menu.png)
+![Menu](Screenshots/menu.png)
 
 ---
 
 ### Security Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ---
 
