@@ -1,5 +1,3 @@
-# 🔐 VaultGuard-X
-
 <div align="center">
 
 # ☣️ VaultGuard-X
